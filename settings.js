@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348187637779"
+global.ownernomer = "233591856630"
 global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
-global.location = "Nigeria,Cross River,Calabar"
+global.location = "Africa, Ghana"
 
-global.ownernumber = '2348187637779'  //creator number
+global.ownernumber = '233591856630'  //creator number
 global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
@@ -37,11 +37,11 @@ global.prefa = ['.']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
